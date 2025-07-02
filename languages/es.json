@@ -1,0 +1,42 @@
+{
+   "profile":{
+    "rol":"Desarrollador Junior",
+    "description": "Nacido en Cali, Colombia en 1981. Músico, gestor cultural, investigador, creativo audiovisual, docente y coordinador de procesos artísticos y culturales. Recientemente cautivado por la informática y el desarrollo de software.Motivado por aprender y construir propuestas eficientes e inspiradoras."
+   },
+
+   "experience":{
+    "experience-title":"Experiencia",
+    "first-job-title": "Desarrollador Junior" ,
+    "first-job-dates": "Enero 2025 - Actualmente",
+    "first-job-description": "Desarrollo Web en Kuadraweb" ,
+
+    "second-job-title": "Director de Contenidos" ,
+    "second-job-dates": "2020 - 2024",
+    "second-job-description":"Colectivo Audiovisual: Cero Punto Siete" ,
+
+    "last-job-title": "Docente y Creativo",
+    "last-job-dates": "2011 - 2025" ,
+    "last-job-description": "Grupo Artístico MAJAGUA"
+
+   },
+
+   "projects" : {
+    "first-project-title":"Blog",
+    "first-project-description":"Blog Los Del Kamino. Para subir artículos, fotografias y enlace a correo electrónico",
+
+    "second-project-title":"E-commerce",
+    "second-project-description":"Tienda on line. Diseñada para la empresa DISASCOL, dedicada a la fabricación y comercialización de productos de aseo.",
+
+    "last-project-title":"Podcast",
+    "last-project-description":"Bendito Tambor. Grabación, diseño sonoro y edición."
+
+   },
+
+   "skills" : {
+      "skills-title":"Habilidades Blandas",
+      "first-skills":"Adaptabilidad",
+      "second-skills":"Comunicación",
+      "last-skills":"Trabajo en equipo"
+   }
+ 
+}
