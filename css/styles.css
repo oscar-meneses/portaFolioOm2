@@ -69,6 +69,28 @@ body.dark{
 }
 
 
+.flags{
+    width: 75px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor:pointer;
+}
+
+.flags__item {
+    width: 30px;
+
+}
+
+.flags__img{
+    display: block;
+    cursor: pointer;
+
+}
+
+
+
+
 .colors{
     display: flex;
     justify-content: space-between;
